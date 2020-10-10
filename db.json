@@ -1,0 +1,15 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "hello",
+      "price": 31000
+    }
+  ],
+  "stores": [
+      {
+      "id": 1,
+    "ubicacion": "typicode"
+    }
+  ]
+}
