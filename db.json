@@ -21,5 +21,31 @@
       "id": 1,
     "ubicacion": "typicode"
     }
+  ],
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "Camisetas"
+    },
+    {
+      "id": 2,
+      "name": "Vestidos"
+    },
+    {
+      "id": 3,
+      "name": "Sudaderas"
+    },
+    {
+      "id": 4,
+      "name": "Pantalones"
+    },
+    {
+      "id": 5,
+      "name": "Jeans"
+    },
+    {
+      "id": 6,
+      "name": "Abrigos"
+    },
   ]
 }
