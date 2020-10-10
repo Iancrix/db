@@ -2,8 +2,18 @@
   "clothes": [
     {
       "id": 1,
-      "name": "hello",
+      "name": "Blusa",
       "price": 31000
+    },
+    {
+      "id": 2,
+      "name": "Camisa",
+      "price": 32000
+    },
+    {
+      "id": 3,
+      "name": "Pantalon",
+      "price": 41000
     }
   ],
   "stores": [
